@@ -126,9 +126,8 @@ Tests/
 - Single SIP account
 - Transfer uses REFER (not attended transfer)
 
-## Copyright
+## License
 
 Copyright © 2026 – Adam Moczydlowski
-Alle Rechte vorbehalten.
 
-Private repository — all rights reserved.
+Released under the [MIT License](LICENSE).
